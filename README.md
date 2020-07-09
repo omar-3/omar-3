@@ -10,4 +10,4 @@ I work in short bursts :disappointed:
 
 I want to be a very good code monkey :monkey:
 
-I want to have my very own [rosetta code](http://www.rosettacode.org/wiki/Rosetta_Code) written by me :saxophone:
+I want write my very own [rosetta code](http://www.rosettacode.org/wiki/Rosetta_Code) :saxophone:
