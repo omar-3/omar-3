@@ -1,16 +1,13 @@
-### Hi there 👋
+### ✨✨ Hi there ✨✨
 
-<!--
-**omar-3/omar-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I (do/want to do) compilers for living :snake:
 
-Here are some ideas to get you started:
+I have 2 years untill graduation :peach:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I don't want to do graduate school :sweat_drops:
+
+I work in short bursts :disappointed:
+
+I want to be a very good code monkey :monkey:
+
+I want to have my very own [rosetta code](http://www.rosettacode.org/wiki/Rosetta_Code) written by me :saxophone:
